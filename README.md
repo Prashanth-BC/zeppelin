@@ -1,6 +1,7 @@
-# Configuring zeppelin for spark and pyspark on windows.
+# Zeppelin topics:
+## Configuring zeppelin for spark and pyspark on windows.
 
-## Steps:
+### Steps:
 
 * Download zeppelin : https://zeppelin.apache.org/download.html
 * Extract the zeppelin on to harddrive.
