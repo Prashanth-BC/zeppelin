@@ -1,4 +1,4 @@
-# Configuring zeppelin on windows.
+# Configuring zeppelin for spark and pyspark on windows.
 
 ## Steps:
 
